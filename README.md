@@ -1,3 +1,4 @@
+<head>
 <style>
 div #header {
     display: flex;
@@ -20,7 +21,8 @@ div #header p {
 
     max-width: 30rem;
 }
-</style> 
+</style>
+</head>
  <div id="page-content">
         <div id="header">
             <h1>Olá!!</h1>
