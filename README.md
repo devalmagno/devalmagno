@@ -1,18 +1,5 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" media="all" href="markdown_styles.css" />
-</head>
-<body>
-    <div id="page-content">
-        <div id="header">
-            <h1>Olá!!</h1>
-            <p>Atualmente me aventurando e desenvolvendo em React, React Native e Nodejs e cursando Sistemas de Informação na Unimontes.</p>
-        </div>
-    </div>
-</body>
-</html>
+<h1>Olá!!</h1>
+<p>Atualmente me aventurando e desenvolvendo em React, React Native e Nodejs e cursando Sistemas de Informação na Unimontes.
+</p>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="devalmagno"><a class="LI-simple-link" href='https://br.linkedin.com/in/devalmagno?trk=profile-badge'>Lúcio Magno</a></div>
