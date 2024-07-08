@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucio Magno</h1>
 <h3 align="center">A passionate Blockchain/Fullstack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devalmagno" alt="devalmagno" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://luciomagno.com](https://luciomagno.com)
 
 - 📫 How to reach me **devalmagno@gmail.com**
