@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucio Magno</h1>
+<h1 align="center">Hi 👋, I'm Lucio</h1>
 <h3 align="center">A passionate Blockchain/Fullstack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://luciomagno.com](https://luciomagno.com)
